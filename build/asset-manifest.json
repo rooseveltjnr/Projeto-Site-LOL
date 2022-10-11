@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72cec2b5.chunk.css",
+    "main.js": "/static/js/main.3a0d3ed5.chunk.js",
+    "main.js.map": "/static/js/main.3a0d3ed5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ba71948.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ba71948.js.map",
+    "static/css/2.754c0413.chunk.css": "/static/css/2.754c0413.chunk.css",
+    "static/js/2.a9ea1580.chunk.js": "/static/js/2.a9ea1580.chunk.js",
+    "static/js/2.a9ea1580.chunk.js.map": "/static/js/2.a9ea1580.chunk.js.map",
+    "static/js/3.6e557bb4.chunk.js": "/static/js/3.6e557bb4.chunk.js",
+    "static/js/3.6e557bb4.chunk.js.map": "/static/js/3.6e557bb4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.754c0413.chunk.css.map": "/static/css/2.754c0413.chunk.css.map",
+    "static/css/main.72cec2b5.chunk.css.map": "/static/css/main.72cec2b5.chunk.css.map",
+    "static/js/2.a9ea1580.chunk.js.LICENSE.txt": "/static/js/2.a9ea1580.chunk.js.LICENSE.txt",
+    "static/media/Champion.css": "/static/media/Anton-Regular.db746a18.ttf",
+    "static/media/ChampionInfo.css": "/static/media/BeaufortforLOL-Regular.ac873200.ttf",
+    "static/media/index.css": "/static/media/bg_1.87faefb8.jpg",
+    "static/media/loading.0e32869c.gif": "/static/media/loading.0e32869c.gif",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/lol_logo.9ff7c2d5.png": "/static/media/lol_logo.9ff7c2d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ba71948.js",
+    "static/css/2.754c0413.chunk.css",
+    "static/js/2.a9ea1580.chunk.js",
+    "static/css/main.72cec2b5.chunk.css",
+    "static/js/main.3a0d3ed5.chunk.js"
+  ]
+}
