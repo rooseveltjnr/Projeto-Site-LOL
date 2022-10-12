@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b93a6bc.css",
+    "main.js": "/static/js/main.eb5e9a45.js",
+    "static/js/787.d00ff251.chunk.js": "/static/js/787.d00ff251.chunk.js",
+    "static/media/bg_1.jpg": "/static/media/bg_1.87faefb8b09e82c6f471.jpg",
+    "static/media/lol_logo.png": "/static/media/lol_logo.9ff7c2d57c78974ba7f8.png",
+    "static/media/BeaufortforLOL-Regular.ttf": "/static/media/BeaufortforLOL-Regular.ac873200626e7d516558.ttf",
+    "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.db746a1872bfcd092bf8.ttf",
+    "static/media/loading.gif": "/static/media/loading.0e32869c4b49c092165b.gif",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4b93a6bc.css.map": "/static/css/main.4b93a6bc.css.map",
+    "main.eb5e9a45.js.map": "/static/js/main.eb5e9a45.js.map",
+    "787.d00ff251.chunk.js.map": "/static/js/787.d00ff251.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b93a6bc.css",
+    "static/js/main.eb5e9a45.js"
+  ]
+}
